@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "name": "UV Protection Sunglasses",
+    "brand": "SunShade",
+    "price": 15,
+    "rating": 4.7,
+    "stock": 10,
+    "description": "Stylish UV protection sunglasses perfect for summer outings.",
+    "image": "https://images.unsplash.com/photo-1511499767150-a48a237f0083?auto=format&fit=crop&w=600&q=60",
+    "category": "Accessories"
+  },
+  {
+    "id": 2,
+    "name": "Beach Flip Flops",
+    "brand": "WaveWalk",
+    "price": 8,
+    "rating": 4.5,
+    "stock": 25,
+    "description": "Lightweight and comfortable flip flops for beach and casual wear.",
+    "image": "https://images.unsplash.com/photo-1596464716127-f2a82984de30?auto=format&fit=crop&w=600&q=60",
+    "category": "Footwear"
+  },
+  {
+    "id": 3,
+    "name": "Portable Mini Fan",
+    "brand": "CoolBreeze",
+    "price": 12,
+    "rating": 4.6,
+    "stock": 18,
+    "description": "Rechargeable mini fan to keep you cool during hot summer days.",
+    "image": "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=600&q=60",
+    "category": "Electronics"
+  },
+  {
+    "id": 4,
+    "name": "Beach Towel",
+    "brand": "SunDry",
+    "price": 10,
+    "rating": 4.4,
+    "stock": 30,
+    "description": "Soft and absorbent beach towel with vibrant summer colors.",
+    "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=600&q=60",
+    "category": "Accessories"
+  },
+  {
+    "id": 5,
+    "name": "Waterproof Sunscreen SPF 50",
+    "brand": "SkinGuard",
+    "price": 18,
+    "rating": 4.8,
+    "stock": 40,
+    "description": "Strong SPF 50 sunscreen that protects your skin during extreme sun exposure.",
+    "image": "https://images.unsplash.com/photo-1596462502278-27bfdc403348?auto=format&fit=crop&w=600&q=60",
+    "category": "Skincare"
+  },
+  {
+    "id": 6,
+    "name": "Summer Hat",
+    "brand": "BreezeWear",
+    "price": 9,
+    "rating": 4.3,
+    "stock": 22,
+    "description": "Breathable straw hat perfect for sun protection and style.",
+    "image": "https://images.unsplash.com/photo-1520975916090-3105956dac38?auto=format&fit=crop&w=600&q=60",
+    "category": "Accessories"
+  }
+]
